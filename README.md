@@ -2,6 +2,9 @@
 
 Projeto desenvolvido para o evento PicPro ministrado pelos instrutores da Kenzie Academy Brasil em parceria com o PicPay.
 
+Link para visualização:
+(https://evertonnunesc.github.io/Projeto-PicPro/)
+
 ## Ferramentas
 
 1. [Instalação do VS Code no Windows](https://kenzie.com.br/blog/instalacao-vs-code-windows/)
